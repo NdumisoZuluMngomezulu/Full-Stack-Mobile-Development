@@ -1,0 +1,1 @@
+A simple task manager mobile app. Built using a Python backend using FastAPI and SQLite to serve a REST API, and a Flutter mobile frontend to interact with it.
